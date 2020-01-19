@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name":"Code craft",
+    "occupation":"(Your Occupation Here)",
+    "description":"Passionate professionals with years of experience in computer science, programming, and UX design for various projects and clients.",
+    "image":"profilepic.jpg",
+    "bio":"We are software professionals with years of experience in computer science, programming, and UX design for various projects and clients. Profound tech knowledge coupled with business understanding is what allows us to create unique solutions that power enterprises, their employees, and customers every day. We stick to the latest industry trends and quality requirements to deliver powerful and secure software that fits corporate environments perfectly and brings positive user experience.",
+    "contactmessage":"Please fill out the form below and we will contact you shortly.",
+    "email": "jure.dragovic@windowslive.com",
+    "phone": "+385 99 753 7142",
+    "address":{
+      "street":"Antuna Šoljana 1A",
+      "city":"Zagreb",
+      "state":"",
+      "zip": "10000"
+    },
+    "website": "http://www.code-craft.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jure-dragović-057650135/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technologies we are using on every day basis",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"100%"
+      },
+      {
+        "name":"Spring boot",
+        "level":"100%"
+      },
+      {
+        "name":"Angular2+",
+        "level":"100%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"HTML5",
+        "level":"100%"
+      },
+      {
+        "name":"React",
+        "level":"70%"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"CodeCraft has shown exceptional professionalism and dedication on the project we have done together, and is certainly someone we will turn to in future projects.",
+        "user":"Josip Korda - CEO@Halfpace Analytics"
+      },
+      {
+        "text":"CodeCraft performed remarkable on projects and did not fail a single time.",
+        "user":"Connie D."
+      }
+    ]
+  }
+}
